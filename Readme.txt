@@ -1,0 +1,1 @@
+A CNN-LSTM model which can extract information from groups of web information and use it to analysis bitcoin price trends.
